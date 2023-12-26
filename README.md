@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I’m a Frontend Developer currently based in Nigeria, I like to craft solid and scalable frontend products with great user experience, beyond coding, I am a seasoned graphic designer. Eager to embark on a journey of professional growth.</h3>
+<img src="natty-cover-photo.jpg"/>
+<h4 align="center">I am a Frontend Developer currently based in Nigeria, I like to craft solid and scalable frontend products with great user experience, beyond coding, I am a seasoned graphic designer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbpihf&label=Profile%20views&color=0e75b6&style=flat" alt="bbpihf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbpihf" alt="bbpihf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/natty_graphics" target="blank"><img src="https://img.shields.io/twitter/follow/natty_graphics?logo=twitter&style=for-the-badge" alt="natty_graphics" /></a> </p>
 
