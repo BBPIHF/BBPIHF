@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <img src="natty-cover-photo.jpg"/>
-<h4 align="center">I am a Frontend Developer currently based in Nigeria, I like to craft solid and scalable frontend products with great user experience, beyond coding, I am a seasoned graphic designer.</h4>
+<h3 align="center">I am a Frontend Developer currently based in Nigeria, I like to craft solid and scalable frontend products with great user experience, beyond coding, I am a seasoned graphic designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbpihf&label=Profile%20views&color=0e75b6&style=flat" alt="bbpihf" /> </p>
 
